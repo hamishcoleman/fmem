@@ -1,0 +1,15 @@
+
+# ignore all the generated output
+.fmem.ko.cmd
+.fmem.mod.o.cmd
+.fmem.o.cmd
+.lkm.o.cmd
+.tmp_versions/
+Module.symvers
+fmem.ko
+fmem.mod.c
+fmem.mod.o
+fmem.o
+lkm.o
+modules.order
+
